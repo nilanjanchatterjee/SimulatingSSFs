@@ -1,0 +1,27 @@
+{
+    "id": "B1D55D87",
+    "path": "~/Schreibtisch/SimulatingSSFs/01_Simulation.R",
+    "project_path": "01_Simulation.R",
+    "type": "r_source",
+    "hash": "2578382351",
+    "contents": "",
+    "dirty": false,
+    "created": 1696612838638.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "29,21",
+        "scrollLine": "15",
+        "marks": "<:24,18\n>:24,18"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1696614486,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1696614486138,
+    "read_only": false,
+    "read_only_alternatives": []
+}

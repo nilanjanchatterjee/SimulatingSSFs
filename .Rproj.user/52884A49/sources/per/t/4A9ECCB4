@@ -1,0 +1,27 @@
+{
+    "id": "4A9ECCB4",
+    "path": "~/Schreibtisch/SimulatingSSFs/02_Analysis.R",
+    "project_path": "02_Analysis.R",
+    "type": "r_source",
+    "hash": "374649795",
+    "contents": "",
+    "dirty": false,
+    "created": 1696613033042.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "marks": "<:192,9\n>:192,32",
+        "cursorPosition": "17,0",
+        "scrollLine": "17"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1696614164,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1696614164101,
+    "read_only": false,
+    "read_only_alternatives": []
+}
