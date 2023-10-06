@@ -46,7 +46,7 @@ toshow <- tibble(Scenario = c("nowater", "water")) %>%
     prob_ta <- dvonmises(ta, kappa = ta_dist[1, index], mu = ta_dist[2, index])
     prob_sl <- dgamma(sl, shape = sl_dist[1, index], scale = sl_dist[2, index])
     all <- tibble(
-        Metric = c(rep("sl", 100), rep("ta", 100))
+        Metric = c(rep("ta", 100), rep("sl", 100))
       , x = c(ta, sl)
       , y = c(prob_ta, prob_sl)
     )
